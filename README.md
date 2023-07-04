@@ -11,11 +11,6 @@
 <p align="center">
 </p>
 
--   I'm **Developer** | **Programmer** | **Learner**
--   Currently Programming in **JavaScript**, **React**, **NodeJs** And **Java**
--   Willing to contribute more and more in **Open Source Projects**
--   Open to new job proposals **Looking for job**
-
 ### Feel Free to Contact me.....
 
 <p align="center">
